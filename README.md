@@ -2,7 +2,6 @@
 
 Um sistema moderno para controle de estoque, desenvolvido com **React**, **TypeScript** e estilizado com **Tailwind CSS**. Ideal para pequenos e médios negócios gerenciarem produtos, categorias e movimentações de forma eficiente.
 
-![Preview da Aplicação](https://via.placeholder.com/800x400?text=Preview+do+Sistema) *(adicione uma imagem real do projeto depois)*
 
 ## ✨ Funcionalidades
 
