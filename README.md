@@ -1,6 +1,6 @@
 # 📦 Sistema de Gestão de Estoque
 
-Um sistema moderno para controle de estoque, desenvolvido com **React** e estilizado com **Tailwind CSS**. Ideal para pequenos e médios negócios gerenciarem produtos, categorias e movimentações de forma eficiente.
+Um sistema moderno para controle de estoque, desenvolvido com **React**, **TypeScript** e estilizado com **Tailwind CSS**. Ideal para pequenos e médios negócios gerenciarem produtos, categorias e movimentações de forma eficiente.
 
 ![Preview da Aplicação](https://via.placeholder.com/800x400?text=Preview+do+Sistema) *(adicione uma imagem real do projeto depois)*
 
@@ -15,7 +15,7 @@ Um sistema moderno para controle de estoque, desenvolvido com **React** e estili
 
 ## 🛠 Tecnologias
 
-- **Frontend**: React.js, Vite (opcional)
+- **Frontend**: React.js, Vite (opcional) , TypeScript
 - **Estilização**: Tailwind CSS
 - **Gerenciamento de Estado**: React Hooks ou Redux (se usado)
 - **Ícones**: React Icons ou similar
